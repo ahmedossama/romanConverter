@@ -1,0 +1,11 @@
+{
+  "name": "roman-converter",
+  "version": "1.0.0",
+  "description": "coding challenge",
+  "main": "index.js",
+  "author": "Ahmed",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
